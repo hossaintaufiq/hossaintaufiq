@@ -1,4 +1,4 @@
-![logo](https://github.com/hossaintaufiq/hossaintaufiq/blob/main/379992308_3538638046410920_8087765652870034376_n.png)
+![logo](https://github.com/hossaintaufiq/hossaintaufiq/blob/main/Computer%20Science.png)
 
 <h1 align="center">Hi 👋, I'm Hossain Ahmmed Taufiq</h1>
 <h3 align="center">A passionate Software Engineer </h3>
