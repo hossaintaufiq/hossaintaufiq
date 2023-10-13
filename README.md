@@ -1,7 +1,7 @@
 ![logo](https://github.com/hossaintaufiq/hossaintaufiq/blob/main/Computer%20Science.png)
 
 <h1 align="center">Hi 👋, I'm Hossain Ahmmed Taufiq</h1>
-<h3 align="center">A passionate Software Engineer </h3>
+<h3 align="center">A passionate Computer Science Engineer </h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -9,7 +9,7 @@
 
 - I’m currently working as a **Full Stack Web Developer**
 
-- 📫 How to reach me **hossainahmmedtaufiq22@gmail.com**
+- 📫 You can reach me **hossainahmmedtaufiq22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
