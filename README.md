@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/hossaintaufiq/hossaintaufiq/blob/main/Computer%20Science.png" alt="logo" width="500">
+  
   
   <h1>Hi 👋, I'm Hossain Ahmmed Taufiq</h1>
   <h3>A passionate Computer Science Engineer 🚀</h3>
