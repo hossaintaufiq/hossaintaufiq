@@ -1,135 +1,134 @@
-<p align="center">
-  <img src="https://i.imgur.com/Gj3j2tO.gif" alt="Coding Animation: Building the Intelligent Future" width="100%" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250" alt="Coding Animation"/>
+  
+  <br/>
+  
+  <h1>Hello, I'm Hossain Ahmmed Taufiq 👋</h1>
+  
+  <h3>
+    🧠 AI/ML Researcher | 🧱 Founder & CEO | 💻 Full-Stack Software Engineer
+  </h3>
+  
+  <p>
+    <i>"Architecting scalable systems and advancing the frontier of intelligent applications."</i>
+  </p>
 
-<h1 align="center">👋 Hey there, I'm Hossain Ahmmed Taufiq</h1>
-<h3 align="center">🧠 AI/ML Researcher | 🧱 Founder & CEO | 💻 Full-Stack Engineer</h3>
+  <a href="https://www.linkedin.com/in/hossaintaufiq/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hossainahmmedtaufiq22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/hossaintaufiq">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</div>
 
----
-
-### ⛏️ “Mining insights, building intelligent systems, one code block at a time...”  
-> Like a well-structured system, my projects start small and scale — powered by innovation, data, and curiosity.
-
----
-
-## 💡 About Me & My Ventures  
-
-I am an **entrepreneurial AI/ML Researcher** and **Full-Stack Developer** dedicated to leveraging technology to build scalable and impactful solutions.
-
-*   🚀 **Entrepreneurial Leader:** Founder & CEO of two ventures: **Justkaaj** (a live service marketplace) and **Neptune Software Solutions** (an AI-driven custom software provider).
-*   🔬 **Research Focus:** Deeply engaged in advanced AI topics, particularly **Multimodal RAG Systems** and applying **Machine Learning to Material Science** (Bandgap Detection).
-*   🛠️ **Tech Stack Expertise:** Primary focus on the **TypeScript/Next.js/Node.js/PostgreSQL** ecosystem, specializing in performance and scalability.
-*   🎓 **Academic Excellence:** Pursuing a **B.Sc. in Computer Science and Engineering** (Expected Dec 2025) with a strong academic standing.
-*   📫 **Connect:** Feel free to reach out to discuss AI research or web scalability: **hossainahmmedtaufiq22@gmail.com**
-
----
-
-## 💼 Professional & Entrepreneurial Roles  
-
-### 🧱 Founder & CEO — Justkaaj & Neptune Software Solutions  
-📍 *Dhaka, Bangladesh | Jan 2024 – Present*  
-*   **Justkaaj:** Successfully launched and scaled a service marketplace utilizing **Next.js**, **Node.js**, and **PostgreSQL**. Integrated proprietary **ML models** to significantly enhance service recommendations.
-*   **Neptune:** Established and currently lead a software company focused on delivering custom, AI-driven web and backend solutions to clients.
-*   Directed **product roadmaps**, led multidisciplinary teams, and managed stakeholder relations including government funding and international investors.
-
-### 💻 React Website Developer — Brooksource   
-📍 *Remote | Apr 2023 – Sep 2024*  
-*   Developed and deployed highly responsive applications using **React.js, TypeScript, and Redux**.
-*   **Optimized application performance by 20%** through strategic implementation of lazy loading and advanced caching mechanisms.
-*   Ensured consistent, on-time delivery within an **Agile environment** while integrating robust **RESTful APIs**.
-
-### 🌐 Website Developer — Americares   
-📍 *Remote | Nov 2022 – Jun 2023*  
-*   Engineered mobile-first web applications using **React.js, HTML5, CSS3, and Tailwind CSS**.
-*   Implemented secure and reliable **authentication flows** and **API integrations**, achieving a **25% reduction** in client-side request failures.
-*   Improved load times by **15%** through database query optimization and efficient integration of caching strategies.
+<br />
 
 ---
 
-## 🔬 Deep Research & AI Focus  
+## 💡 Professional Summary
 
-| Focus Area | Project / Framework | Key Technologies |
+I am an **entrepreneurial AI/ML Researcher** and **Full-Stack Developer** bridging the gap between theoretical AI research and production-grade software engineering. My focus lies in building scalable web ecosystems and integrating advanced Machine Learning models into practical applications.
+
+* 🚀 **Leadership:** Founder & CEO of **Justkaaj** (Service Marketplace) and **Neptune Software Solutions** (AI-driven custom software).
+* 🔬 **Research:** Specializing in **Multimodal RAG Systems**, **Deep Learning**, and **Material Science** applications (Bandgap Detection).
+* 🛠️ **Core Stack:** Expert in the **TypeScript/Next.js/Node.js/PostgreSQL** ecosystem with a focus on high-performance architecture.
+* 🎓 **Education:** B.Sc. in Computer Science & Engineering (**North South University**), maintaining a **3.74/4.0 CGPA**.
+
+---
+
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend & Backend
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### AI, ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Databases & DevOps
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Experience & Ventures
+
+| Role & Company | Timeline | Impact & Key Contributions |
 | :--- | :--- | :--- |
-| **Advanced RAG Systems** | Personal Research: AI-Powered Task Manager | **RAG Framework**, **Multimodal RAG**, LangChain, Vector Databases |
-| **Material Science** | Personal Research: Material Bandgap Detection | **Machine Learning**, Data Processing, Predictive Modeling |
-| **Deep Learning** | Research Assistant: Epilepsy Detection | **EEG Data**, **CNN Models**, Deep Learning, Data Processing |
+| **Founder & CEO**<br>Justkaaj & Neptune Software Solutions | *Jan 2024 – Present* | • **Scaled** Justkaaj marketplace using Next.js/Node.js.<br>• **Integrated ML** for enhanced service recommendations.<br>• **Leading** multidisciplinary teams and managing investor relations. |
+| **React Website Developer**<br>Brooksource (Remote) | *Apr 2023 – Sep 2024* | • Developed responsive apps with **React.js & TypeScript**.<br>• **Optimized performance by 20%** via lazy loading & caching.<br>• Delivered features in a fast-paced **Agile environment**. |
+| **Website Developer**<br>Americares (Remote) | *Nov 2022 – Jun 2023* | • Built mobile-first apps using React.js & Tailwind.<br>• **Reduced request failures by 25%** through secure API flows.<br>• Improved load times by **15%** via query optimization. |
 
 ---
 
-## 🛠️ Technical Skills Arsenal  
+## 🔬 Research & Innovation
 
-| Category | Skills / Technologies |
-| :--- | :--- |
-| **Programming & Data** | **Python**, C++, Java, **TypeScript**, JavaScript (ES6+), SQL |
-| **Frontend** | **Next.js**, **React.js**, HTML, CSS, Tailwind CSS |
-| **Backend & API** | **Node.js**, **Express.js**, Django, **RESTful APIs**, **GraphQL** |
-| **Databases** | **PostgreSQL**, MySQL, MongoDB, Firebase, SSMS |
-| **AI/ML & DS** | **TensorFlow, PyTorch**, NumPy, Pandas, Scikit-learn, Data Analysis & Viz, AI & ML Research |
-| **DevOps & Tools** | **Git, GitHub, Docker, CI/CD (GitHub Actions)**, Jest, Mocha, Beautiful Soup |
-| **Core Skills** | **DSA**, Competitive Programming, API Integration, Responsive Design, Web Performance Optimization |
+My research focuses on the intersection of deep learning and practical utility.
+
+| Area | Project Focus | Technologies Used |
+| :--- | :--- | :--- |
+| **Generative AI** | **Advanced RAG Systems**<br>Developing multimodal RAG frameworks for intelligent task management. | LangChain, Vector DBs, LLMs |
+| **Material Science** | **Bandgap Detection**<br>Applying ML predictive modeling to analyze material properties. | Machine Learning, Data Processing |
+| **Healthcare AI** | **Epilepsy Detection**<br>Analyzing EEG data using CNN models for early seizure detection. | CNNs, Deep Learning, EEG Analysis |
 
 ---
 
-## 🎓 Education & Achievements  
+## 🧩 Featured Projects
 
-**North South University, Dhaka, Bangladesh**
-*   **B.Sc. in Computer Science & Engineering** | *Expected: Dec 2025*
-*   **CGPA:** 3.74/4.0
-*   *Relevant Coursework:* Machine Learning, AI, Data Structures & Algorithms, Web Development
-
-**Certifications:**
-*   Full-Stack Web Development (Programming Hero)
-*   Data Structures and Algorithms (Udemy, Phitron)
-*   Public Speaking (BYLC)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Justkaaj** | A live service marketplace connecting users with professionals, featuring ML-based recommendations. | `Next.js` `Node.js` `PostgreSQL` |
+| **AcuMens Media** | Full-stack platform with robust user authentication and RESTful API architecture. | `React.js` `MongoDB` `REST API` |
+| **Bitcoin Sim** | A blockchain simulator replicating real-world transaction mechanics. | `Vite` `React` `Django` |
+| **Uni Admission** | Interactive dashboard assisting students with private university comparisons. | `MERN Stack` |
 
 ---
 
-## 🧩 Featured Projects  
+## 📊 GitHub Analytics
 
-| Project Name | Stack & Key Feature |
-| :--- | :--- |
-| **Justkaaj – Service Marketplace** | **Next.js, Node.js, PostgreSQL** with **ML recommendations**. A live, team-led marketplace. |
-| **AcuMens Media Inc** | Full-stack **React.js, MongoDB**, RESTful APIs, and user authentication features. |
-| **Bitcoin Transaction Simulation** | Blockchain simulator built with **Vite.js, React.js, Django, and MongoDB**. Replicates real transactions. |
-| **Private University Admission Helper** | **MERN** stack app with interactive dashboards and search for university and course comparison. |
-
----
-
-## 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossaintaufiq&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossaintaufiq&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossaintaufiq&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossaintaufiq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hossaintaufiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossaintaufiq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-## 🌍 Connect With Me  
-<p align="center">
-  <a href="https://github.com/hossaintaufiq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:hossainahmmedtaufiq22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hossaintaufiq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+### ⚡ Personal Interests
+* **Strategic Gaming:** Analyzing complex systems in virtual environments.
+* **Global Travel:** Expanding cultural perspective and adaptability.
+* **Continuous Learning:** Dedicated to mastering new algorithms and frameworks.
 
----
+<br />
 
-### 🎮 Interests & Fun Fact  
-
-*   **Gaming:** Exploring virtual worlds and strategic challenges.
-*   **Traveling:** Enhancing adaptability and global awareness.
-*   **Fitness:** Maintaining discipline and mental clarity.
-*   **Self-Improvement:** Focused on personal growth and skill development.
-*   **Sports:** Developing teamwork and strategic thinking through badminton and cricket.
-
-> I mine ideas like diamonds — the deeper I go into **Multimodal RAG** and **Deep Learning**, the rarer the insights get! 💎  
-
-<p align="center">
-  <i>Keep mining... keep coding ⛏️</i>
-</p>
+<div align="center">
+  <i>Let's build the intelligent future together.</i>
+</div>
