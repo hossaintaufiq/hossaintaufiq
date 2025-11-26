@@ -116,7 +116,6 @@ I’m an **AI/ML Researcher**, **Full-Stack Developer**, and **Entrepreneur**, f
 **Certifications:** Full-Stack Dev (Programming Hero), DSA (Udemy/Phitron), Public Speaking (BYLC)
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -134,7 +133,14 @@ I’m an **AI/ML Researcher**, **Full-Stack Developer**, and **Entrepreneur**, f
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossaintaufiq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
+<br><br>
+
+<!-- GitHub Snake -->
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/main/snake.svg)
+
 </div>
 
 
+
 ---
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/main/snake.svg)
