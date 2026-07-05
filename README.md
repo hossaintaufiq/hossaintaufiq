@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/🚀_Marketplace-500%2B_Users-3FB950?style=for-the-badge" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🎓_CGPA-3.74_%2F_4.00-A371F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓_CGPA-3.79_%2F_4.00-A371F7?style=for-the-badge" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/🔬_Research-3_Papers-F78166?style=for-the-badge" />
@@ -279,7 +279,7 @@ const taufiq = {
 
 | 🏛️ Institution | Degree | Score | Year |
 |:---:|--------|:-----:|:----:|
-| **North South University, Dhaka** | B.Sc. Computer Science & Engineering | **CGPA 3.74 / 4.00** | `Expected Dec 2025` |
+| **North South University, Dhaka** | B.Sc. Computer Science & Engineering | **CGPA 3.79 / 4.00** | `Expected Dec 2025` |
 | **Notre Dame College, Dhaka** | HSC — Science | **GPA 5.00 / 5.00** | `Jan 2020` |
 
 </div>
