@@ -1,65 +1,7 @@
-<!-- HERO BANNER — custom SVG with glow lighting -->
+<!-- HERO BANNER -->
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a4a,60:0d3b6e,100:1a1a2e&height=220&section=header&text=Hossain%20Ahmmed%20Taufiq&fontSize=42&fontColor=58A6FF&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%2FML%20Systems%20%C2%B7%20Founder%20%26%20CEO&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%" /> -->
-
-</div>
-
-<div align="center">
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Building+intelligent+systems+%F0%9F%9A%80;Founder+%26+CEO+%40+Justkaaj+%F0%9F%8F%97%EF%B8%8F;AI%2FML+Researcher+%C2%B7+3+Published+Papers+%F0%9F%94%AC;Shipping+production+code%2C+one+commit+at+a+time+%E2%9C%85" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- Stat badges in a table for proper spacing -->
- <table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/⚡_Experience-3%2B_Years-58A6FF?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🚀_Marketplace-500%2B_Users-3FB950?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🎓_CGPA-3.79_%2F_4.00-A371F7?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🔬_Research-3_Papers-F78166?style=for-the-badge" />
-</td>
-</tr>
-</table> 
-
-<br/>
-
-<!-- Social links in a table for proper spacing -->
-<table>
-<tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/hossaintaufiq/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</td>
-<td align="center">
-<a href="mailto:hossainahmmedtaufiq22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/hossaintaufiq">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-<td align="center">
-<img src="https://komarev.com/ghpvc/?username=hossaintaufiq&label=Profile+Views&color=58A6FF&style=for-the-badge" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Trophies -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=hossaintaufiq&theme=algolia&no-frame=true&margin-w=12&column=7" alt="Trophies" width="100%" /> -->
+<img src="./assets/hero-section.png" alt="Hossain Ahmmed Taufiq Hero Banner" width="100%" />
 
 </div>
 
