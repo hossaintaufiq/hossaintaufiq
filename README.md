@@ -34,89 +34,48 @@ const taufiq = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💻 Tech Stack
 
 <div align="center">
 
-<table>
-<tr><td align="center" colspan="5">
+### Languages
 
-**⚙️ Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,cs,kotlin,bash&theme=dark" />
+</p>
 
-</td></tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Express.js-Expert-303030?style=for-the-badge&logo=express&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/GraphQL-Proficient-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/REST_APIs-Expert-FF6C37?style=for-the-badge" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Django-Proficient-092E20?style=for-the-badge&logo=django&logoColor=white" /></td>
-</tr>
+### Frontend
 
-<tr><td align="center" colspan="5">
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,html,css&theme=dark" />
+</p>
 
-**🎨 Frontend**
+### Backend
 
-</td></tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=next.js&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/React-Expert-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
-<td align="center"><img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Tailwind-Proficient-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Redux-Proficient-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></td>
-</tr>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql&theme=dark" />
+</p>
 
-<tr><td align="center" colspan="5">
+### AI & Machine Learning
 
-**🤖 AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+</p>
 
-</td></tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/TensorFlow-Proficient-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/PyTorch-Proficient-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/LangChain-RAG_Systems-1C3C3C?style=for-the-badge" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Gemini_2.5-LLM_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Scikit--learn-Proficient-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></td>
-</tr>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-121212?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-121212?style=flat-square&logo=opencv&logoColor=white"/>
+</p>
 
-<tr><td align="center" colspan="5">
+### Database & DevOps
 
-**🗄️ Databases & DevOps**
-
-</td></tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/MongoDB-Proficient-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Firebase-Proficient-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Docker-Proficient-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></td>
-</tr>
-
-<tr><td align="center" colspan="7">
-
-**💬 Languages**
-
-</td></tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></td>
-</tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,git,githubactions,linux&theme=dark" />
+</p>
 
 </div>
 
-<br/>
-
----
 
 ## 💼 Professional Experience
 
@@ -194,23 +153,19 @@ const taufiq = {
 
 <div align="center">
 
-<br/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hossaintaufiq&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hossaintaufiq&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=hossaintaufiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats" width="49%" />
+<img width="48%" src="https://streak-stats.demolab.com?user=hossaintaufiq&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossaintaufiq&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="42%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hossaintaufiq&theme=tokyo-night&hide_border=true&area=true" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hossaintaufiq&theme=tokyo-night&hide_border=true&border_radius=10&area=true" alt="Contribution Graph" width="100%" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossaintaufiq&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<br/>
-
 ---
 
 ## 🎓 Education
