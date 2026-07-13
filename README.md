@@ -1,7 +1,7 @@
 <!-- HERO BANNER -->
 <div align="center">
 
-<img src="./assets/hero-section.png" alt="Hossain Ahmmed Taufiq Hero Banner" width="100%" />
+<img src="./assest/hero-section.png" alt="Hossain Ahmmed Taufiq Hero Banner" width="100%" />
 
 </div>
 
