@@ -1,7 +1,7 @@
 <!-- HERO BANNER — custom SVG with glow lighting -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a4a,60:0d3b6e,100:1a1a2e&height=220&section=header&text=Hossain%20Ahmmed%20Taufiq&fontSize=42&fontColor=58A6FF&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%2FML%20Systems%20%C2%B7%20Founder%20%26%20CEO&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a4a,60:0d3b6e,100:1a1a2e&height=220&section=header&text=Hossain%20Ahmmed%20Taufiq&fontSize=42&fontColor=58A6FF&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%2FML%20Systems%20%C2%B7%20Founder%20%26%20CEO&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%" /> -->
 
 </div>
 
@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- Stat badges in a table for proper spacing -->
-<table>
+ <table>
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/⚡_Experience-3%2B_Years-58A6FF?style=for-the-badge" />
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/🔬_Research-3_Papers-F78166?style=for-the-badge" />
 </td>
 </tr>
-</table>
+</table> 
 
 <br/>
 
@@ -59,7 +59,7 @@
 <br/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=hossaintaufiq&theme=algolia&no-frame=true&margin-w=12&column=7" alt="Trophies" width="100%" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=hossaintaufiq&theme=algolia&no-frame=true&margin-w=12&column=7" alt="Trophies" width="100%" /> -->
 
 </div>
 
