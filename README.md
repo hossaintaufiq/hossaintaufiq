@@ -16,8 +16,8 @@ const taufiq = {
   name        : "Hossain Ahmmed Taufiq",
   role        : "Full-Stack Engineer · Backend & AI/ML Systems",
   location    : "Dhaka, Bangladesh 🇧🇩",
-  companies   : ["Justkaaj (Founder & CEO)", "Neptune Software Solutions (Founder)"],
-  education   : "B.Sc. CSE — North South University  |  CGPA 3.74 / 4.00  |  Dec 2025",
+  companies   : ["Justkaaj (Founder & CEO)", "Softlligence (Founder & tech Lead)"],
+  education   : "B.Sc. CSE — North South University  |  CGPA 3.79 / 4.00  |  Dec 2026",
   research    : [
     "Epilepsy Detection via EEG + Deep Learning      →  journal submission",
     "Multimodal RAG with Hallucination Reduction     →  conference submission",
