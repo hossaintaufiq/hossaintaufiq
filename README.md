@@ -38,40 +38,47 @@ const taufiq = {
 
 <div align="center">
 
-### Languages
+### 💡 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,cs,kotlin,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,kotlin,sql&theme=dark" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,html,css&theme=dark" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql&theme=dark" />
 </p>
 
-### AI & Machine Learning
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" />
+</p>
+
+### 🤖 AI & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_API-121212?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-121212?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-121212?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-121212?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-121212?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### Database & DevOps
+### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,git,githubactions,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,githubactions,linux&theme=dark" />
 </p>
 
 </div>
@@ -79,73 +86,69 @@ const taufiq = {
 
 ## 💼 Professional Experience
 
-<br/>
+---
 
-### 🏗️ Founder & CEO — [Justkaaj](https://justkaaj.com) &nbsp; `Apr 2024 – Present`
-> *Service Marketplace Startup · Dhaka, Bangladesh*
+### Founder & CEO · Softlligence Technologies
+**Jan 2026 – Present · Dhaka, Bangladesh**
 
-- 🚀 Architected and launched a full-stack service marketplace (Next.js + Node.js + PostgreSQL) with a custom ML recommendation engine — **500+ active users** · **200+ service providers** in production
-- 🔐 Engineered secure REST APIs, role-based auth, real-time dashboards, and admin control panel — cutting manual overhead by **40%**
-- 👥 Led a cross-functional team of **4–6 engineers & designers** through full product lifecycle: sprints, architecture, code review, roadmap
-- 🏆 Secured **government funding** · Pitched to **international investors** · Validated product-market fit
+Building enterprise-grade software, AI-powered products, and digital solutions for businesses across multiple industries.
 
-<br/>
+- Architect software architectures and lead end-to-end product development from planning to deployment.
+- Develop scalable web applications using **Next.js, Node.js, Express, TypeScript, PostgreSQL, and MongoDB**.
+- Design AI-powered solutions leveraging **LLMs, RAG systems, LangChain, and Gemini API** integrations.
+- Lead client communication, technical decisions, code reviews, and product strategy across multiple projects.
 
-### 💻 Full-Stack Developer — Brooksource &nbsp; `Apr 2023 – Sep 2024`
-> *Enterprise React Consultancy · Remote (US-based) · Fortune 500 clients*
+<br>
 
-- ⚡ Reduced front-end load time by **20%** via code splitting, lazy loading & bundle optimisation
-- 🔗 Designed API integration layers that measurably reduced cross-service latency
-- 📦 Shipped features **ahead of schedule** across distributed Agile teams spanning multiple time zones
+### Software Engineer · ZERODEVS LTD
+**Jan 2025 – May 2026 · On-site**
 
-<br/>
+- Engineered production-ready SaaS applications using **Next.js, Express.js, Node.js, TypeScript, and MySQL**.
+- Developed and maintained the official **SHORBORNO School ERP**, serving **100+ educational institutions** across Bangladesh.
+- Built scalable REST APIs, authentication systems, and backend services while improving application performance and maintainability.
+- Collaborated closely with cross-functional teams to deliver business-critical software features.
 
-### 🌐 Web Developer — Americares &nbsp; `Nov 2022 – Jun 2023`
-> *Global Non-Profit · Remote · Operating in 25+ countries*
+<br>
 
-- 📱 Built mobile-first React.js apps used by staff across global operations
-- 🛡️ Reduced backend request failure rate by **25%** via retry logic, error handling & response caching
-- 🔒 Hardened auth with JWT, input validation & HTTPS enforcement
+### Full-Stack Developer · Brooksource
+**Apr 2023 – Sep 2024 · Remote (US)**
 
-<br/>
+- Developed enterprise React applications using **React.js, TypeScript, Redux, and REST APIs**.
+- Reduced application load time by **20%** through code splitting, lazy loading, and performance optimization.
+- Designed scalable frontend architecture and API integration layers for distributed enterprise systems.
+- Delivered production features across Agile teams spanning multiple time zones.
 
 ---
 
-## 🔬 Research
+---
 
-<br/>
+## 🚀 Featured Projects
 
-<div align="center">
+### AI CRM Platform
+> **Next.js • Express • MongoDB • Gemini 2.5 • Kotlin**
 
-| &nbsp; | Title | Status | Supervisor |
-|:------:|-------|:------:|------------|
-| 🧠 | **Epilepsy Detection via Deep Learning on EEG Signals** | `📝 Journal Submission` | Dr. MD. Sumon Hossain · NSU |
-| 🤖 | **Multimodal RAG with Cross-Modal Hallucination Reduction** | `📢 Conference Submission` | Dr. Nabil Bin Hannan · NSU |
-| ⚛️ | **Multi-Task ML for Band Gap & Formation Energy Prediction** | `✅ Published` | North South University |
-
-</div>
-
-<br/>
+AI-powered CRM ecosystem across Web, Android, and Telegram with intelligent automation, conversational workflows, and real-time synchronization.
 
 ---
 
-## 🧩 Featured Projects
+### SHORBORNO School ERP
+> **Next.js • TypeScript • Express • MySQL**
 
-<br/>
+Enterprise SaaS platform serving **100+ educational institutions**, featuring scalable architecture, responsive UI, and secure backend services.
 
-<div align="center">
+---
 
-| Project | Tech Stack | Highlight |
-|---------|-----------|-----------|
-| 🏪 [**Justkaaj**](https://justkaaj.com) — Service Marketplace | `Next.js` `Node.js` `PostgreSQL` `ML` | Live · 500+ users · Investor-pitched |
-| 🤖 **AI CRM** — Web + Mobile + Telegram Bot | `Next.js` `Express` `MongoDB` `Gemini 2.5` `Kotlin` | AI task automation + Android + Telegram bot |
-| 🌐 [**NSU ACM Chapter**](https://nsuacm.com) | `Next.js` `TypeScript` `CDN` | Sub-second loads · Static rendering |
-| ₿ **Bitcoin Transaction Simulator** | `React` `Django` `MongoDB` | Real-trade simulation interface |
-| 🎓 **University Admission Helper** | `MERN` | Dashboard-based search & filtering |
+### Playpen School Platform
+> **Next.js • PostgreSQL • AWS**
 
-</div>
+Production-ready school management system supporting online admissions, tuition payments, events, and parent engagement.
 
-<br/>
+---
+
+### FocusFlow
+> **Python • PySide6 • Matplotlib**
+
+Offline desktop productivity suite integrating task management, habit tracking, calendar scheduling, analytics, and local-first data storage.
 
 ---
 
