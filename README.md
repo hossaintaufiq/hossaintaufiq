@@ -3,62 +3,79 @@
 
 # Hossain Ahmmed Taufiq
 
-*Software Engineer · Backend · Applied AI*
+### Backend AI Engineer · Distributed Systems · Applied AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hossaintaufiq)
-[![Website](https://img.shields.io/badge/Website-Softlligence-7c3aed?style=flat-square&logo=safari)](https://softlligence.tech)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:hossainahmmedtaufiq22@gmail.com)
+Building scalable backend systems and intelligent software.
+
+[LinkedIn](https://linkedin.com/in/hossaintaufiq) ·
+[Website](https://softlligence.tech) ·
+[Email](mailto:hossainahmmedtaufiq22@gmail.com)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="middle">
+## About Me
 
-### Hey, This is Taufiq 👋
+I'm a lifelong technology enthusiast, engineer, and entrepreneur
+who enjoys turning complex ideas into practical solutions.
 
-A lifelong tech enthusiast, builder, and Backend AI Engineer passionate about turning complex ideas into practical, scalable solutions.
+My journey started with full-stack development. Today, I focus on
+**backend engineering, distributed systems, and applied AI**,
+building scalable architectures and intelligent applications.
 
-My journey started with full-stack development, where I explored the art of building products from the ground up. Today, my focus is on backend engineering, distributed systems, and applied AI — building intelligent systems that go beyond traditional software.
+I'm also the **Founder of Softlligence Technologies**, where
+I work on engineering products and technology-driven solutions.
 
-I'm also the founder of [Softlligence Technologies](https://softlligence.tech), where I work on building technology-driven products and solutions.
+## Tech Stack
 
-Always curious. Always building. Always exploring what's next.
+**Languages**
 
-</td>
-<td width="45%" valign="middle">
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-```typescript
-const developer and Entrepreneur= {
-  name: "Hossain Ahmmed Taufiq",
+**Backend & Infrastructure**
 
-  interests: [
-    "Backend Engineering",
-    "Distributed Systems",
-    "Applied AI",
-    "Open Source"
-  ],
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-  stack: {
-    languages: ["TypeScript", "Python", "C++", "SQL"],
-    frontend:["Next.js","Tailwind","HTML"],
-    backend: ["Node.js", "Express","Django","REST API","FAST API","GRAPHQL"],
-    ai: ["PyTorch", "SkitLern","LLMs"],
-    databases: ["PostgreSQL", "MongoDB","Redis"]
-  },
+**AI & Machine Learning**
 
-  philosophy: 
-    "Build. Break. Learn. Repeat."
-};
-```
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
 
-</td>
-</tr>
-</table>
+**Databases & Frontend**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
+
+## Current Interests
+
+- Backend architecture & distributed systems
+- Applied AI & LLM-powered applications
+- Multimodal AI systems
+- Scalable, production-ready engineering
+
+---
+
+<div align="center">
+
+*"Build. Break. Learn. Repeat."*
+
+</div>
+
 
 ## 🐍 Contribution Snake
 
